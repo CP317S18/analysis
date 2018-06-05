@@ -52,7 +52,7 @@ The intended audience for this document will be the client (David Brown) and the
 <img src="https://cp317s18.github.io/analysis/User-Event-Loop.png" align="center" hspace="70" />
 
 ## 3.2 Device Controller Event Loop
-<img src="https://cp317s18.github.io/analysis/Device-Controller-Event-Loop.png" align="center" hspace="70" width="600"/>
+<img src="https://cp317s18.github.io/analysis/Device-Controller-Event-Loop.png" align="center" hspace="70" width="595"/>
 
 ## 3.3 User Controls 
 <img src="https://cp317s18.github.io/analysis/User-Controls-Event-Loop.png" align="center" hspace="70" width="400" height="400"/>
