@@ -58,8 +58,11 @@ The intended audience for this document will be the client (David Brown) and the
 <img src="https://cp317s18.github.io/analysis/User-Controls-Event-Loop.png" align="center" hspace="70" width="400" height="400"/>
 
 # 4. Non Functional Attributes
-
-# 5. Classes and Attributes
+ - User will see a searching screen then will join mesh network as soon as a nearby device is found
+ - User will see when disconnected
+ - Messages will be seen by all users in mesh in under 3 seconds
+ 
+# 5. Classes
 
 # 6. Model Generalization
 
