@@ -50,13 +50,13 @@ The intended audience for this document will be the client (David Brown) and the
 
 ## 3.1 User Event Loop
 <img src="https://cp317s18.github.io/analysis/User-Event-Loop.png" align="left" hspace="70" />
-
+<br/>
 ## 3.2 Device Controller Event Loop
 <img src="https://cp317s18.github.io/analysis/Device-Controller-Event-Loop.png" align="left" hspace="70" />
-
+<br/>
 ## 3.3 User Controls 
 <img src="https://cp317s18.github.io/analysis/User-Controls.png" align="left" hspace="70" />
-
+<br/>
 # 4. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
 
