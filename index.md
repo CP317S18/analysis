@@ -19,9 +19,9 @@
 _Shout!_  is a bluetooth low energy (BLE) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same bluetooth mesh.
 
 ## 1.2 Project Purpose
-This document will cover all of the requirements needed for _Shout!_ and will describe all of its features and how they work.
+This document will cover all of the analysis needed for _Shout!_ and will describe all of its features and how they work.
 
-The intended audience for this document will be the client (David Brown) and the project team. They will use this document to be reminded of the requirements of the project. The document will also be used as the basis for the project.
+The intended audience for this document will be the client (David Brown) and the project team. They will use this document to be reminded of the analysis of the project. The document will also be used as the basis for the project.
 			
 # 2. Object Classification
 						
@@ -30,8 +30,8 @@ The intended audience for this document will be the client (David Brown) and the
 <img src="https://cp317s18.github.io/analysis/analysis-object-diagram.png" align="left" hspace="70" />
 
 ## 2.2 Entity Objects
-- User - A User of the Shout! application
-- Message - User generated text to be broadcasted to other Shout! users
+- User - A user of the _Shout!_ application
+- Message - User generated text to be broadcasted to other _Shout!_ users
 - Device -  The basis for the Bluetooth LE software and its connections 
 
 
@@ -40,10 +40,10 @@ The intended audience for this document will be the client (David Brown) and the
 - User Controller - Coordinates all matters related to user data
 
 ## 2.4 Boundary Objects
-- Relay - enables the user to pass along messages to or from other users
-- Send - enables the user to export or send messages to other users 
-- Receive - enables the user to obtain or receive messages from other others
-- Connect - establishes the first connection between relay nodes 
+- Relay - Enables the user to pass along messages to or from other users
+- Send - Enables the user to export or send messages to other users 
+- Receive - Enables the user to obtain or receive messages from other users
+- Connect - Establishes the first connection between relay nodes 
 - UserView - The UI of the application, connects the user to the application backend 
 
 # 3. Further Steps 
@@ -66,4 +66,5 @@ The intended audience for this document will be the client (David Brown) and the
 - Tiffany Chan
 - Greg Murray
 - Delina Ghebrekristos
+- Andrew Badali
 
