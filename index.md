@@ -57,10 +57,16 @@ The intended audience for this document will be the client (David Brown) and the
 ## 3.3 User Controls 
 <img src="https://cp317s18.github.io/analysis/User-Controls-Event-Loop.png" align="center" hspace="70" width="400" height="400"/>
 
-# 4. Versions
+# 4. Non Functional Attributes
+
+# 5. Classes and Attributes
+
+# 6. Model Generalization
+
+# 7. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
 
-# 5. Authored by: 
+# 8. Authored by: 
 - Jayanth Koroth
 - Emily Hryb
 - Tiffany Chan
