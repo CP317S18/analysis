@@ -55,7 +55,7 @@ The intended audience for this document will be the client (David Brown) and the
 <img src="https://cp317s18.github.io/analysis/Device-Controller-Event-Loop.png" align="center" hspace="70"/>
 
 ## 3.3 User Controls 
-<img src="https://cp317s18.github.io/analysis/User-Controls.png" align="center" hspace="70" />
+<img src="https://cp317s18.github.io/analysis/User-Controls.png" align="center" hspace="70" width="300" height="300"/>
 
 # 4. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
