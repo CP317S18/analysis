@@ -65,8 +65,7 @@ The intended audience for this document will be the client (David Brown) and the
  - Messages will be seen by all users in mesh in under 3 seconds
  
 # 5. Classes
-<img src="https://cp317s18.github.io/analysis/class_diagram.png" align="center" hspace="70" />
-<!--div style="width: 800px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/c69ce3f8-67ac-4a84-aca1-aacb30c9be36" id="YWMJamWYOgXw"></iframe></div-->
+<div style="width: 800px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/c69ce3f8-67ac-4a84-aca1-aacb30c9be36" id="YWMJamWYOgXw"></iframe></div>
 
 # 6. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
