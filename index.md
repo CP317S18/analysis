@@ -74,4 +74,7 @@ The intended audience for this document will be the client (David Brown) and the
 - Greg Murray
 - Delina Ghebrekristos
 - Andrew Badali
+- Adam Benwood
+- Alex Keats
+- Benjamin Segall
 
