@@ -11,8 +11,10 @@
   * [3.1 User Event Loop](#31-user-event-loop)
   * [3.2 Device Controller Event Loop](#32-device-controller-event-loop)  
   * [3.3 User Controls](#33-user-controls)  
-- [4. Versions](#4-versions)
-- [5. Authored By](#5-authored-by)
+- [4. Non Functional Attributes](#4-non-functional-attributes)
+- [5. Classes](#5-classes)
+- [6. Versions](#6-versions)
+- [7. Authored By](#7-authored-by)
 
 # 1. Introduction
 ## 1.1 Project Summary
@@ -66,10 +68,10 @@ The intended audience for this document will be the client (David Brown) and the
 <img src="https://cp317s18.github.io/analysis/class_diagram.png" align="center" hspace="70" />
 <!--div style="width: 800px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/c69ce3f8-67ac-4a84-aca1-aacb30c9be36" id="YWMJamWYOgXw"></iframe></div-->
 
-# 7. Versions
+# 6. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
 
-# 8. Authored by: 
+# 7. Authored by: 
 - Jayanth Koroth
 - Emily Hryb
 - Tiffany Chan
