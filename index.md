@@ -64,8 +64,6 @@ The intended audience for this document will be the client (David Brown) and the
  
 # 5. Classes
 
-# 6. Model Generalization
-
 # 7. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
 
