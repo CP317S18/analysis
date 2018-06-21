@@ -54,7 +54,7 @@ The intended audience for this document will be the client (David Brown) and the
 <img src="https://cp317s18.github.io/analysis/User-Event-Loop.png" align="center" hspace="70" />
 
 ## 3.2 Device Controller Event Loop
-<img src="https://cp317s18.github.io/analysis/Device_Controller_Event_Loop.png" align="center" hspace="70" width="595"/>
+<div style="width: 800px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/044b7b86-ad07-43b7-a05d-4d036c6b927e" id="8rBOi4gD83Z_"></iframe></div>
 
 ## 3.3 User Controls 
 <img src="https://cp317s18.github.io/analysis/User-Controls-Event-Loop.png" align="center" hspace="70" width="400" height="400"/>
