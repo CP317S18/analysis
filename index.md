@@ -13,8 +13,9 @@
   * [3.3 User Controls](#33-user-controls)  
 - [4. Non Functional Attributes](#4-non-functional-attributes)
 - [5. Classes](#5-classes)
-- [6. Versions](#6-versions)
-- [7. Authored By](#7-authored-by)
+- [6. Message Protocol](#6-message-protocol)
+- [7. Versions](#7-versions)
+- [8. Authored By](#8-authored-by)
 
 # 1. Introduction
 ## 1.1 Project Summary
