@@ -38,15 +38,15 @@ The intended audience for this document will be the client (David Brown) and the
 
 
 ## 2.3 Control Objects 
-- Controller Interface - Coordinates all matters related to the exchange of messages between users
+- Connection Interface - Coordinates all matters related to the exchange of messages between users
 - User Controller - Coordinates all matters related to user data
 
 ## 2.4 Boundary Objects
-- Relay - Enables the user to pass along messages to or from other users
+- Relay Node - Enables the user to pass along messages to or from other users
 - Send - Enables the user to export or send messages to other users 
 - Receive - Enables the user to obtain or receive messages from other users
 - Connect - Establishes the first connection between relay nodes 
-- UserView - The UI of the application, connects the user to the application backend 
+- SetUsernameView - The UI of the application, connects the user to the application backend 
 
 # 3. Further Steps 
 
