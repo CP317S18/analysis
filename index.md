@@ -85,6 +85,7 @@ OR
 # 7. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
 - Version 0.2 7/06/2018 `Added message protocol` 
+- Version 0.3 8/14/2018 `SQA items corrected`
 
 # 8. Authored by: 
 - Jayanth Koroth
